@@ -1,0 +1,21 @@
+{
+  "name": "process-cpu-usage",
+  "version": "0.0.1",
+
+  "author": {
+    "name": "Igor Sosyura",
+    "email": "encobrain@gmail.com"
+  },
+
+  "license": "MIT",
+
+  "keywords": ["cpu","process","usage","load"],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/encobrain/proces-cpu-usage.git"
+  },
+  "bugs": "https://github.com/encobrain/process-cpu-usage/issues",
+
+  "engines": {"node":"*"}
+}
