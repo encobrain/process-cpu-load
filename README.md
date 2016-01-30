@@ -17,7 +17,7 @@ Cpu load of own process
             heavy: 90,
             load: 80,
             work: 30,
-            idle: 1
+            idle: 0
         }
     });
     

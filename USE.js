@@ -13,7 +13,7 @@ var observer = new Observer({
         heavy: 90,
         load: 80,
         work: 30,
-        idle: 1
+        idle: 0
     }
 });
 
