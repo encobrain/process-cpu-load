@@ -1,5 +1,5 @@
 {
-  "name": "process-cpu-usage",
+  "name": "process-cpu-load",
   "version": "0.0.1",
 
   "author": {
@@ -9,7 +9,7 @@
 
   "license": "MIT",
 
-  "keywords": ["cpu","process","usage","load"],
+  "keywords": ["cpu","process","usage","load", "own"],
 
   "repository": {
     "type": "git",
