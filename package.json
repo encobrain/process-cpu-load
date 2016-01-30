@@ -13,9 +13,9 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/encobrain/proces-cpu-usage.git"
+    "url": "https://github.com/encobrain/process-cpu-load.git"
   },
-  "bugs": "https://github.com/encobrain/process-cpu-usage/issues",
+  "bugs": "https://github.com/encobrain/process-cpu-load/issues",
 
   "engines": {"node":"*"}
 }
